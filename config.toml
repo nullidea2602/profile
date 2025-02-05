@@ -1,0 +1,72 @@
+baseURL = "https://randallsturgis.com/"
+languageCode = "en-us"
+title = "Randall Sturgis"
+theme = "papermod"
+
+disableKinds = ["taxonomy"]
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowToc = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  useHLJS = true
+  defaultTheme = "auto"
+
+[menu]
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "case-studies"
+    name = "Case Studies"
+    url = "/case-studies/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "certifications"
+    name = "Certifications"
+    url = "/certifications/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "profile"
+    name = "Profile"
+    url = "/profile/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "just-for-fun"
+    name = "Just for Fun"
+    url = "/just-for-fun/"
+    weight = 6
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Recent Posts"
+    url = "/posts/"
+    weight = 7
+
+[social]
+  github = "https://github.com/yourusername"
+  linkedin = "https://linkedin.com/in/yourusername"
+  medium = "https://medium.com/@yourusername"
+  kaggle = "https://www.kaggle.com/yourusername"
+  tableau = "https://public.tableau.com/profile/yourusername"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
