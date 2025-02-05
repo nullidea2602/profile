@@ -36,6 +36,9 @@ I'm a dedicated and versatile analyst with over 10 years of experience in data a
 
 ### 📬 Get in Touch
 
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- **Email**: [your@email.com](mailto:your@email.com)
+- **[GitHub](https://github.com/nullidea2602)**
+- **[LinkedIn](https://www.linkedin.com/in/randall-sturgis-0697b716a/)**
+
+---
+
+### Check out my recent posts

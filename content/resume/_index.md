@@ -57,9 +57,12 @@ Dedicated and versatile analyst with over 10 years of experience in data analyti
 ---
 
 ## Education  
-### **High School Diploma**  
-*Clackamas High School, Clackamas, OR*  
-**[Google Data Analytics Professional Certificate](/certifications/google-data-analytics-professional-certificate)**  
+
+### Certifications
+*[Google Data Analytics Professional Certificate](/certifications/google-data-analytics-professional-certificate)*
+
+### High School Diploma
+*Clackamas High School, Clackamas, OR* 
 
 ---
 

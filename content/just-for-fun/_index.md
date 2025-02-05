@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "Just for Fun"
 date: 2025-02-05
 draft: false
 ---
