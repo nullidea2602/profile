@@ -1,19 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Randall Sturgis</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Randall Sturgis</description>
+    <title>Profile on Randall Sturgis</title>
+    <link>https://randallsturgis.com/</link>
+    <description>Recent content in Profile on Randall Sturgis</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Feb 2025 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://randallsturgis.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 05 Feb 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Hello, this is my first post using Hugo!&lt;/p&gt;</description>
+      <title>Google Data Analytics Professional Certificate</title>
+      <link>https://randallsturgis.com/certifications/google-data-analytics-professional-certificate/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://randallsturgis.com/certifications/google-data-analytics-professional-certificate/</guid>
+      <description>Showcasing my completion of the Google Data Analytics Professional Certificate and a related case study.</description>
+    </item>
+    <item>
+      <title>How Does a Bike-Share Navigate Speedy Success?</title>
+      <link>https://randallsturgis.com/case-studies/case-study-cyclistic/</link>
+      <pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://randallsturgis.com/case-studies/case-study-cyclistic/</guid>
+      <description>&lt;h4 id=&#34;understanding-how-casual-riders-differ-from-annual-members-in-their-usage-of-cyclistic-bikes&#34;&gt;Understanding How Casual Riders Differ from Annual Members in Their Usage of Cyclistic Bikes&lt;/h4&gt;
+&lt;h3 id=&#34;executive-summary&#34;&gt;&lt;strong&gt;Executive Summary&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Cyclistic, a Chicago-based bike-share program, seeks to increase its annual memberships by understanding how casual riders differ from members in their usage of the service. Through an extensive analysis of historical bike trip data, key insights have emerged that can inform targeted marketing strategies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Casual riders exhibit significantly longer ride durations — 96% longer on average — compared to annual members.&lt;/li&gt;
+&lt;li&gt;Peak usage times differ: Casual riders primarily ride late at night and in the afternoon, while members ride during commuting hours.&lt;/li&gt;
+&lt;li&gt;Casual riders heavily favor electric scooters and high-traffic tourist locations, such as Shedd Aquarium and Buckingham Fountain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Recommendations&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Does a Bike-Share Navigate Speedy Success?</title>
+      <link>https://randallsturgis.com/posts/case-study-cyclistic/</link>
+      <pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://randallsturgis.com/posts/case-study-cyclistic/</guid>
+      <description>&lt;h4 id=&#34;understanding-how-casual-riders-differ-from-annual-members-in-their-usage-of-cyclistic-bikes&#34;&gt;Understanding How Casual Riders Differ from Annual Members in Their Usage of Cyclistic Bikes&lt;/h4&gt;
+&lt;h3 id=&#34;executive-summary&#34;&gt;&lt;strong&gt;Executive Summary&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Cyclistic, a Chicago-based bike-share program, seeks to increase its annual memberships by understanding how casual riders differ from members in their usage of the service. Through an extensive analysis of historical bike trip data, key insights have emerged that can inform targeted marketing strategies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Casual riders exhibit significantly longer ride durations — 96% longer on average — compared to annual members.&lt;/li&gt;
+&lt;li&gt;Peak usage times differ: Casual riders primarily ride late at night and in the afternoon, while members ride during commuting hours.&lt;/li&gt;
+&lt;li&gt;Casual riders heavily favor electric scooters and high-traffic tourist locations, such as Shedd Aquarium and Buckingham Fountain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Recommendations&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Does a Bike-Share Navigate Speedy Success?</title>
+      <link>https://randallsturgis.com/projects/case-study-cyclistic/</link>
+      <pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://randallsturgis.com/projects/case-study-cyclistic/</guid>
+      <description>&lt;h4 id=&#34;understanding-how-casual-riders-differ-from-annual-members-in-their-usage-of-cyclistic-bikes&#34;&gt;Understanding How Casual Riders Differ from Annual Members in Their Usage of Cyclistic Bikes&lt;/h4&gt;
+&lt;h3 id=&#34;executive-summary&#34;&gt;&lt;strong&gt;Executive Summary&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Cyclistic, a Chicago-based bike-share program, seeks to increase its annual memberships by understanding how casual riders differ from members in their usage of the service. Through an extensive analysis of historical bike trip data, key insights have emerged that can inform targeted marketing strategies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Casual riders exhibit significantly longer ride durations — 96% longer on average — compared to annual members.&lt;/li&gt;
+&lt;li&gt;Peak usage times differ: Casual riders primarily ride late at night and in the afternoon, while members ride during commuting hours.&lt;/li&gt;
+&lt;li&gt;Casual riders heavily favor electric scooters and high-traffic tourist locations, such as Shedd Aquarium and Buckingham Fountain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Recommendations&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

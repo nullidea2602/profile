@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Randall Sturgis</title>
-    <link>https://randallsturgis.com/posts/</link>
-    <description>Recent content in Posts on Randall Sturgis</description>
+    <title>Case-Studies on Randall Sturgis</title>
+    <link>https://randallsturgis.com/case-studies/</link>
+    <description>Recent content in Case-Studies on Randall Sturgis</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Feb 2025 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://randallsturgis.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://randallsturgis.com/case-studies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Does a Bike-Share Navigate Speedy Success?</title>
-      <link>https://randallsturgis.com/posts/case-study-cyclistic/</link>
+      <link>https://randallsturgis.com/case-studies/case-study-cyclistic/</link>
       <pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
-      <guid>https://randallsturgis.com/posts/case-study-cyclistic/</guid>
+      <guid>https://randallsturgis.com/case-studies/case-study-cyclistic/</guid>
       <description>&lt;h4 id=&#34;understanding-how-casual-riders-differ-from-annual-members-in-their-usage-of-cyclistic-bikes&#34;&gt;Understanding How Casual Riders Differ from Annual Members in Their Usage of Cyclistic Bikes&lt;/h4&gt;
 &lt;h3 id=&#34;executive-summary&#34;&gt;&lt;strong&gt;Executive Summary&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Cyclistic, a Chicago-based bike-share program, seeks to increase its annual memberships by understanding how casual riders differ from members in their usage of the service. Through an extensive analysis of historical bike trip data, key insights have emerged that can inform targeted marketing strategies.&lt;/p&gt;
