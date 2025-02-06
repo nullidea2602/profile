@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shareds on Randall Sturgis</title>
+    <link>https://randallsturgis.com/shared/</link>
+    <description>Recent content in Shareds on Randall Sturgis</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-us</language>
+    <atom:link href="https://randallsturgis.com/shared/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://randallsturgis.com/shared/case-study-cyclistic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://randallsturgis.com/shared/case-study-cyclistic/</guid>
+      <description>&lt;h4 id=&#34;understanding-how-casual-riders-differ-from-annual-members-in-their-usage-of-cyclistic-bikes&#34;&gt;Understanding How Casual Riders Differ from Annual Members in Their Usage of Cyclistic Bikes&lt;/h4&gt;
+&lt;h3 id=&#34;executive-summary&#34;&gt;&lt;strong&gt;Executive Summary&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Cyclistic, a Chicago-based bike-share program, seeks to increase its annual memberships by understanding how casual riders differ from members in their usage of the service. Through an extensive analysis of historical bike trip data, key insights have emerged that can inform targeted marketing strategies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Casual riders exhibit significantly longer ride durations — 96% longer on average — compared to annual members.&lt;/li&gt;
+&lt;li&gt;Peak usage times differ: Casual riders primarily ride late at night and in the afternoon, while members ride during commuting hours.&lt;/li&gt;
+&lt;li&gt;Casual riders heavily favor electric scooters and high-traffic tourist locations, such as Shedd Aquarium and Buckingham Fountain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Recommendations&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://randallsturgis.com/shared/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://randallsturgis.com/shared/profile/</guid>
+      <description>&lt;h2 id=&#34;hi-im-randall-sturgis-&#34;&gt;Hi, I&amp;rsquo;m Randall Sturgis 👋&lt;/h2&gt;
+&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;
+  &lt;img src=&#34;https://randallsturgis.com/images/profile.jpg&#34; alt=&#34;Randall Sturgis&#34; style=&#34;width: 150px; border-radius: 50%; margin-right: 20px;&#34;&gt;
+  &lt;div&gt;I&amp;rsquo;m a dedicated and versatile analyst with over 10 years of experience in data analytics, report writing, SQL, marketing operations, and customer service. Proven ability to analyze and solve complex problems while effectively coordinating with internal and external partners to achieve strategic objectives.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;-skills--technologies&#34;&gt;🛠️ Skills &amp;amp; Technologies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Software:&lt;/strong&gt; Excel, MS Report Builder/SSRS, Power BI/Power BI Report Server&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Python, Perl, Bash, VBA, C#, T-SQL&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technical:&lt;/strong&gt; Data analysis, implementation, report generation, CRM/ERP administration/reporting, Power Platform development&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Soft Skills:&lt;/strong&gt; Customer service, de-escalation, business process change management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-case-studies--projects&#34;&gt;💼 Case Studies &amp;amp; Projects&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://randallsturgis.com/case-studies/case-study-cyclistic&#34;&gt;Cyclistic Case Study&lt;/a&gt;&lt;/strong&gt; - Cyclistic, a Chicago-based bike-share program, seeks to increase its annual memberships by understanding how casual riders differ from members in their usage of the service. Through an extensive analysis of historical bike trip data, key insights have emerged that can inform targeted marketing strategies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-certifications&#34;&gt;📜 Certifications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://randallsturgis.com/certifications/google-data-analytics-professional-certificate&#34;&gt;Google Data Analytics Professional Certificate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-get-in-touch&#34;&gt;📬 Get in Touch&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/randallsturgis&#34;&gt;GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/in/randall-sturgis-0697b716a/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
